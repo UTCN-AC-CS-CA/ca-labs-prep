@@ -1,4 +1,4 @@
-# Entry Quiz 1
+# Entry Quiz for Lab 2
 
 This is a list of the preparatory questions for the first entry quiz
 
