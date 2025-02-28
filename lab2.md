@@ -34,7 +34,7 @@ Links to the documentation files:
 11. Draw the schematic for a mono pulse generator
 
 ## Questions from Lab 2
-1. Is it possible to have all of the seven segment displays (individual digits) turned on EXACTLY at the same time or does it simply alternate so fast as to which one is turned on momentarily that it gives the "illusion" of being active?
+1. Is it possible to have all of the seven segment displays (individual digits) turned on EXACTLY at the same time (moment) or does it simply alternate so fast as to which one is turned on momentarily that it gives the "illusion" of being active?
 2. Name the **six** basic ALU operations outlined in section _2.4_ from the lab documentation.
 3. Explain what an **adder** does, draw the schematic and write the VHDL implementation.
 4. Explain what a **subtractor** does, draw the schematic and write the VHDL implementation.
