@@ -40,5 +40,5 @@ Links to the documentation files:
 4. Explain what a **subtractor** does, draw the schematic and write the VHDL implementation.
 5. Explain what a **shifter** does, draw the schematic and write the VHDL implementation.
 6. Explain what a **zero detector** does and write the VHDL implementation.
-7. Explain what a **sign / zero detector** does and write the VHDL implementation.
+7. Explain what a **sign / zero extender** does and write the VHDL implementation.
 8. Explain what a **comparator** does, draw the schematic and write the VHDL implementation.
